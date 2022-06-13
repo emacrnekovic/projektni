@@ -1,0 +1,56 @@
+
+
+ p
+ {
+   color:white;
+   font-family:courier;
+   font-size:20px;
+   line-height:22px;
+   width:500px;
+   background-color: rgba(209,237,242,0.5);
+   padding:40px;
+   
+ }
+ h3{  font-family:serif,verdana,arial;
+      font-size:35px;
+	  color: rgb(186,219,255)
+  }
+ h2,h1
+ { 
+    font-family:verdana,arial,serif;
+	font-size:40px;
+	color: rgb(209,237,242);
+	}
+body{ 
+      background-image: url("slike/most.jpg");
+	  
+
+}
+.blok1{
+	background-color: rgba(255,255,255,0.7);
+	padding:20px;
+	margin:20px;
+	width:50%;
+	
+}
+.blok2{ 
+    line-height:25px;
+	width:1015px;
+	background-color: rgba(209,237,242,0.5);
+    padding:40px;
+	
+
+
+}
+a{ 
+    color:white;
+	line-height:50px;
+	border:1px solid white;
+	padding:10px;
+	
+}
+img{ 
+    height: 300px;
+
+}
+   
